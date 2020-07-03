@@ -1,0 +1,15 @@
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\bin\Debug\netcoreapp3.1\CommeTuVeux2.exe
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\obj\Debug\netcoreapp3.1\CommeTuVeux2.AssemblyInfoInputs.cache
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\obj\Debug\netcoreapp3.1\CommeTuVeux2.AssemblyInfo.cs
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\bin\Debug\netcoreapp3.1\CommeTuVeux2.deps.json
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\bin\Debug\netcoreapp3.1\CommeTuVeux2.runtimeconfig.json
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\bin\Debug\netcoreapp3.1\CommeTuVeux2.runtimeconfig.dev.json
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\bin\Debug\netcoreapp3.1\CommeTuVeux2.dll
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\bin\Debug\netcoreapp3.1\CommeTuVeux2.pdb
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\obj\Debug\netcoreapp3.1\CommeTuVeux2.csprojAssemblyReference.cache
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\obj\Debug\netcoreapp3.1\CommeTuVeux2.csproj.CoreCompileInputs.cache
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\obj\Debug\netcoreapp3.1\CommeTuVeux2.csproj.CopyComplete
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\obj\Debug\netcoreapp3.1\CommeTuVeux2.dll
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\obj\Debug\netcoreapp3.1\CommeTuVeux2.pdb
+C:\Users\lamm\Documents\Projets\CommeTuVeux2\obj\Debug\netcoreapp3.1\CommeTuVeux2.genruntimeconfig.cache
